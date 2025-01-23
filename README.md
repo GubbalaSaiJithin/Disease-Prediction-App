@@ -38,7 +38,7 @@ Follow these steps to run the Disease Prediction System locally:
 
 1. Clone this repository:
    ```bash
- (https://github.com/GubbalaSaiJithin/Disease-Prediction-App)
+   (https://github.com/GubbalaSaiJithin/Disease-Prediction-App)
    ```
 
 2. Install the dependencies:
