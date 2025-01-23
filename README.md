@@ -93,9 +93,9 @@ The app is also deployed on Streamlit Cloud. You can access the live app by clic
 ## Author
 
 This Disease Prediction App was developed by :
--	[@katakampranav](https://github.com/katakampranav)
--	Repository : https://github.com/katakampranav/Disease-Prediction-App
+-	[@GubbalaSaiJithin](https://github.com/GubbalaSaiJithin)
+-	Repository : https://github.com/GubbalaSaiJithin/Disease-Prediction-App.git
 
 ## Feedback
 
-For any feedback or queries, please reach out to me at katakampranavshankar@gmail.com.
+For any feedback or queries, please reach out to me at saijithin09@gmail.com.
