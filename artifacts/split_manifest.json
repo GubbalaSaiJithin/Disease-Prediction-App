@@ -1,0 +1,2939 @@
+{
+  "train": [
+    [
+      "altered sensorium",
+      "vomiting",
+      "weakness of one body side"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "dark urine",
+      "diarrhoea",
+      "joint pain",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "anxiety",
+      "blurred and distorted vision",
+      "drying and tingling lips",
+      "excessive hunger",
+      "headache",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "hip joint pain",
+      "knee pain",
+      "neck pain",
+      "painful walking",
+      "swelling joints"
+    ],
+    [
+      "burning micturition",
+      "itching",
+      "spotting urination",
+      "stomach pain"
+    ],
+    [
+      "inflammatory nails",
+      "joint pain",
+      "skin peeling",
+      "skin rash",
+      "small dents in nails"
+    ],
+    [
+      "bladder discomfort",
+      "burning micturition",
+      "foul smell of urine"
+    ],
+    [
+      "pus filled pimples",
+      "scurring",
+      "skin rash"
+    ],
+    [
+      "headache",
+      "loss of balance",
+      "nausea",
+      "unsteadiness",
+      "vomiting"
+    ],
+    [
+      "acidity",
+      "chest pain",
+      "cough",
+      "stomach pain",
+      "ulcers on tongue",
+      "vomiting"
+    ],
+    [
+      "breathlessness",
+      "cough",
+      "fatigue",
+      "high fever",
+      "mucoid sputum"
+    ],
+    [
+      "constipation",
+      "irritation in anus",
+      "pain during bowel movements",
+      "pain in anal region"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "depression",
+      "dizziness",
+      "enlarged thyroid",
+      "fatigue",
+      "irritability",
+      "lethargy",
+      "mood swings",
+      "puffy face and eyes",
+      "swollen extremeties",
+      "weight gain"
+    ],
+    [
+      "blackheads",
+      "pus filled pimples",
+      "scurring"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "vomiting",
+      "weight loss",
+      "yellowing of eyes"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "cough",
+      "fast heart rate",
+      "fatigue",
+      "high fever",
+      "malaise",
+      "phlegm",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "diarrhoea",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "belly pain",
+      "chills",
+      "constipation",
+      "diarrhoea",
+      "fatigue",
+      "headache",
+      "high fever",
+      "nausea",
+      "vomiting"
+    ],
+    [
+      "acidity",
+      "depression",
+      "excessive hunger",
+      "headache",
+      "indigestion",
+      "irritability",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "burning micturition",
+      "itching",
+      "skin rash",
+      "spotting urination"
+    ],
+    [
+      "chills",
+      "diarrhoea",
+      "headache",
+      "muscle pain",
+      "nausea",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "belly pain",
+      "chills",
+      "constipation",
+      "diarrhoea",
+      "fatigue",
+      "high fever",
+      "nausea",
+      "toxic look (typhos)",
+      "vomiting"
+    ],
+    [
+      "dizziness",
+      "headache",
+      "lack of concentration",
+      "loss of balance"
+    ],
+    [
+      "family history",
+      "fatigue",
+      "loss of appetite",
+      "nausea",
+      "yellowish skin"
+    ],
+    [
+      "acidity",
+      "cough",
+      "stomach pain",
+      "ulcers on tongue",
+      "vomiting"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "itching",
+      "nodal skin eruptions",
+      "skin rash"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "high fever",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "inflammatory nails",
+      "silver like dusting",
+      "skin peeling",
+      "skin rash",
+      "small dents in nails"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "fast heart rate",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "restlessness",
+      "sweating",
+      "weight loss"
+    ],
+    [
+      "dischromic patches",
+      "itching",
+      "nodal skin eruptions"
+    ],
+    [
+      "hip joint pain",
+      "joint pain",
+      "neck pain",
+      "painful walking",
+      "swelling joints"
+    ],
+    [
+      "chest pain",
+      "dizziness",
+      "lack of concentration",
+      "loss of balance"
+    ],
+    [
+      "diarrhoea",
+      "sunken eyes",
+      "vomiting"
+    ],
+    [
+      "blurred and distorted vision",
+      "excessive hunger",
+      "fatigue",
+      "increased appetite",
+      "lethargy",
+      "obesity",
+      "polyuria",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "headache",
+      "nausea",
+      "spinning movements",
+      "unsteadiness",
+      "vomiting"
+    ],
+    [
+      "breathlessness",
+      "cough",
+      "family history",
+      "fatigue",
+      "high fever",
+      "mucoid sputum"
+    ],
+    [
+      "acidity",
+      "chest pain",
+      "cough",
+      "ulcers on tongue",
+      "vomiting"
+    ],
+    [
+      "bladder discomfort",
+      "continuous feel of urine",
+      "foul smell of urine"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes"
+    ],
+    [
+      "bloody stool",
+      "constipation",
+      "pain during bowel movements",
+      "pain in anal region"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "vomiting",
+      "weight loss",
+      "yellowish skin"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "vomiting",
+      "yellowing of eyes"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "itching",
+      "lethargy",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "bruising",
+      "cramps",
+      "fatigue",
+      "obesity",
+      "prominent veins on calf",
+      "swollen blood vessels"
+    ],
+    [
+      "back pain",
+      "dizziness",
+      "loss of balance",
+      "neck pain"
+    ],
+    [
+      "bloody stool",
+      "irritation in anus",
+      "pain during bowel movements",
+      "pain in anal region"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "headache",
+      "loss of balance",
+      "nausea",
+      "spinning movements",
+      "unsteadiness",
+      "vomiting"
+    ],
+    [
+      "blackheads",
+      "pus filled pimples",
+      "skin rash"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "excessive hunger",
+      "fast heart rate",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "restlessness",
+      "sweating",
+      "weight loss"
+    ],
+    [
+      "chills",
+      "continuous sneezing",
+      "shivering"
+    ],
+    [
+      "itching",
+      "skin rash",
+      "spotting urination",
+      "stomach pain"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "blister",
+      "high fever",
+      "red sore around nose",
+      "yellow crust ooze"
+    ],
+    [
+      "bruising",
+      "cramps",
+      "fatigue",
+      "obesity",
+      "prominent veins on calf",
+      "swollen blood vessels",
+      "swollen legs"
+    ],
+    [
+      "excessive hunger",
+      "fatigue",
+      "increased appetite",
+      "irregular sugar level",
+      "lethargy",
+      "obesity",
+      "polyuria",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "sweating"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "depression",
+      "excessive hunger",
+      "headache",
+      "indigestion",
+      "irritability",
+      "visual disturbances"
+    ],
+    [
+      "family history",
+      "loss of appetite",
+      "nausea",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "continuous sneezing",
+      "cough",
+      "fatigue",
+      "headache",
+      "high fever",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "throat irritation"
+    ],
+    [
+      "bruising",
+      "cramps",
+      "fatigue",
+      "obesity",
+      "swollen blood vessels",
+      "swollen legs"
+    ],
+    [
+      "abdominal pain",
+      "distention of abdomen",
+      "fluid overload",
+      "history of alcohol consumption",
+      "swelling of stomach",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "depression",
+      "excessive hunger",
+      "indigestion",
+      "irritability",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "abdominal pain",
+      "indigestion",
+      "internal itching",
+      "loss of appetite",
+      "vomiting"
+    ],
+    [
+      "family history",
+      "fatigue",
+      "nausea",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "belly pain",
+      "chills",
+      "constipation",
+      "diarrhoea",
+      "fatigue",
+      "headache",
+      "high fever",
+      "toxic look (typhos)",
+      "vomiting"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "high fever",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "continuous sneezing",
+      "cough",
+      "fatigue",
+      "headache",
+      "high fever",
+      "loss of smell",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "abdominal pain",
+      "itching",
+      "loss of appetite",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "itching",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fast heart rate",
+      "high fever",
+      "malaise",
+      "phlegm",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "headache",
+      "loss of balance",
+      "nausea",
+      "spinning movements",
+      "unsteadiness"
+    ],
+    [
+      "burning micturition",
+      "skin rash",
+      "spotting urination",
+      "stomach pain"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "cough",
+      "fatigue",
+      "headache",
+      "high fever",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "family history",
+      "fatigue",
+      "loss of appetite",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "chills",
+      "constipation",
+      "diarrhoea",
+      "fatigue",
+      "headache",
+      "high fever",
+      "nausea",
+      "toxic look (typhos)",
+      "vomiting"
+    ],
+    [
+      "anxiety",
+      "blurred and distorted vision",
+      "drying and tingling lips",
+      "excessive hunger",
+      "fatigue",
+      "headache",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "sweating"
+    ],
+    [
+      "dark urine",
+      "fatigue",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "blurred and distorted vision",
+      "excessive hunger",
+      "fatigue",
+      "increased appetite",
+      "irregular sugar level",
+      "lethargy",
+      "polyuria",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "chest pain",
+      "congestion",
+      "continuous sneezing",
+      "cough",
+      "fatigue",
+      "headache",
+      "high fever",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "hip joint pain",
+      "joint pain",
+      "knee pain",
+      "painful walking",
+      "swelling joints"
+    ],
+    [
+      "breathlessness",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "dehydration",
+      "diarrhoea",
+      "sunken eyes",
+      "vomiting"
+    ],
+    [
+      "altered sensorium",
+      "headache",
+      "weakness of one body side"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "fast heart rate",
+      "fatigue",
+      "high fever",
+      "malaise",
+      "phlegm",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "anxiety",
+      "blurred and distorted vision",
+      "drying and tingling lips",
+      "excessive hunger",
+      "fatigue",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "internal itching",
+      "loss of appetite",
+      "passage of gases",
+      "vomiting"
+    ],
+    [
+      "hip joint pain",
+      "joint pain",
+      "knee pain",
+      "neck pain",
+      "swelling joints"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "excessive hunger",
+      "fast heart rate",
+      "fatigue",
+      "irritability",
+      "muscle weakness",
+      "restlessness",
+      "sweating",
+      "weight loss"
+    ],
+    [
+      "back pain",
+      "chills",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "excessive hunger",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "restlessness",
+      "sweating",
+      "weight loss"
+    ],
+    [
+      "blurred and distorted vision",
+      "excessive hunger",
+      "fatigue",
+      "increased appetite",
+      "irregular sugar level",
+      "obesity",
+      "polyuria",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "abdominal pain",
+      "fatigue",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "dehydration",
+      "diarrhoea",
+      "sunken eyes"
+    ],
+    [
+      "abdominal pain",
+      "distention of abdomen",
+      "history of alcohol consumption",
+      "swelling of stomach",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "acidity",
+      "chest pain",
+      "cough",
+      "stomach pain",
+      "vomiting"
+    ],
+    [
+      "burning micturition",
+      "itching",
+      "skin rash",
+      "stomach pain"
+    ],
+    [
+      "abdominal pain",
+      "distention of abdomen",
+      "fluid overload",
+      "history of alcohol consumption",
+      "swelling of stomach",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "fluid overload",
+      "history of alcohol consumption",
+      "swelling of stomach",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "depression",
+      "excessive hunger",
+      "headache",
+      "irritability",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "blurred and distorted vision",
+      "excessive hunger",
+      "increased appetite",
+      "irregular sugar level",
+      "lethargy",
+      "obesity",
+      "polyuria",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "chills",
+      "continuous sneezing",
+      "watering from eyes"
+    ],
+    [
+      "abdominal pain",
+      "itching",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "back pain",
+      "dizziness",
+      "loss of balance",
+      "weakness in limbs"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "continuous sneezing",
+      "cough",
+      "fatigue",
+      "high fever",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "extra marital contacts",
+      "high fever",
+      "patches in throat"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash"
+    ],
+    [
+      "blackheads",
+      "scurring",
+      "skin rash"
+    ],
+    [
+      "abdominal pain",
+      "indigestion",
+      "internal itching",
+      "loss of appetite",
+      "passage of gases",
+      "vomiting"
+    ],
+    [
+      "anxiety",
+      "blurred and distorted vision",
+      "drying and tingling lips",
+      "excessive hunger",
+      "fatigue",
+      "headache",
+      "irritability",
+      "palpitations",
+      "slurred speech",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "itching",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "vomiting",
+      "weight loss",
+      "yellowing of eyes"
+    ],
+    [
+      "movement stiffness",
+      "muscle weakness",
+      "painful walking",
+      "swelling joints"
+    ],
+    [
+      "altered sensorium",
+      "headache",
+      "vomiting",
+      "weakness of one body side"
+    ],
+    [
+      "fatigue",
+      "high fever",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "blister",
+      "high fever",
+      "red sore around nose",
+      "skin rash"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "high fever",
+      "itching",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "diarrhoea",
+      "headache",
+      "high fever",
+      "muscle pain",
+      "nausea",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "fatigue",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "high fever",
+      "itching",
+      "lethargy",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "diarrhoea",
+      "joint pain",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "altered sensorium",
+      "headache",
+      "vomiting"
+    ],
+    [
+      "blurred and distorted vision",
+      "drying and tingling lips",
+      "excessive hunger",
+      "fatigue",
+      "headache",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "high fever",
+      "itching",
+      "vomiting",
+      "weight loss",
+      "yellowish skin"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "excessive hunger",
+      "fast heart rate",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "restlessness",
+      "sweating",
+      "weight loss"
+    ],
+    [
+      "chest pain",
+      "dizziness",
+      "headache",
+      "loss of balance"
+    ],
+    [
+      "acidity",
+      "chest pain",
+      "stomach pain",
+      "ulcers on tongue",
+      "vomiting"
+    ],
+    [
+      "cough",
+      "family history",
+      "fatigue",
+      "high fever",
+      "mucoid sputum"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "blister",
+      "high fever",
+      "skin rash",
+      "yellow crust ooze"
+    ],
+    [
+      "abdominal pain",
+      "belly pain",
+      "chills",
+      "constipation",
+      "diarrhoea",
+      "fatigue",
+      "headache",
+      "high fever",
+      "nausea",
+      "toxic look (typhos)"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "cold hands and feets",
+      "depression",
+      "dizziness",
+      "enlarged thyroid",
+      "irritability",
+      "lethargy",
+      "mood swings",
+      "puffy face and eyes",
+      "swollen extremeties",
+      "weight gain"
+    ],
+    [
+      "back pain",
+      "fatigue",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "inflammatory nails",
+      "joint pain",
+      "silver like dusting",
+      "skin rash",
+      "small dents in nails"
+    ],
+    [
+      "movement stiffness",
+      "muscle weakness",
+      "stiff neck",
+      "swelling joints"
+    ],
+    [
+      "abdominal pain",
+      "distention of abdomen",
+      "fluid overload",
+      "history of alcohol consumption",
+      "swelling of stomach",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "indigestion",
+      "internal itching",
+      "passage of gases",
+      "vomiting"
+    ],
+    [
+      "blurred and distorted vision",
+      "excessive hunger",
+      "fatigue",
+      "increased appetite",
+      "irregular sugar level",
+      "lethargy",
+      "obesity",
+      "polyuria",
+      "restlessness"
+    ],
+    [
+      "bladder discomfort",
+      "burning micturition",
+      "continuous feel of urine"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "swelled lymph nodes",
+      "vomiting",
+      "weight loss",
+      "yellowing of eyes"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "itching",
+      "vomiting",
+      "weight loss"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fatigue",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "vomiting",
+      "weight loss",
+      "yellowing of eyes"
+    ],
+    [
+      "movement stiffness",
+      "muscle weakness",
+      "painful walking",
+      "stiff neck",
+      "swelling joints"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "diarrhoea",
+      "joint pain",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "chest pain",
+      "headache",
+      "lack of concentration",
+      "loss of balance"
+    ],
+    [
+      "blood in sputum",
+      "chest pain",
+      "chills",
+      "cough",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "vomiting",
+      "weight loss",
+      "yellowing of eyes"
+    ],
+    [
+      "extra marital contacts",
+      "high fever",
+      "muscle wasting",
+      "patches in throat"
+    ],
+    [
+      "abdominal pain",
+      "coma",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "itching",
+      "loss of appetite",
+      "nausea",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "distention of abdomen",
+      "fluid overload",
+      "history of alcohol consumption",
+      "swelling of stomach",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "itching",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes"
+    ],
+    [
+      "dizziness",
+      "loss of balance",
+      "neck pain",
+      "weakness in limbs"
+    ],
+    [
+      "headache",
+      "loss of balance",
+      "spinning movements",
+      "unsteadiness",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "diarrhoea",
+      "joint pain",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fast heart rate",
+      "fatigue",
+      "high fever",
+      "malaise",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "breathlessness",
+      "cough",
+      "family history",
+      "high fever",
+      "mucoid sputum"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "breathlessness",
+      "family history",
+      "fatigue",
+      "high fever",
+      "mucoid sputum"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fast heart rate",
+      "fatigue",
+      "high fever",
+      "phlegm",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "depression",
+      "excessive hunger",
+      "headache",
+      "indigestion",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "movement stiffness",
+      "muscle weakness",
+      "painful walking",
+      "stiff neck"
+    ],
+    [
+      "high fever",
+      "muscle wasting",
+      "patches in throat"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "continuous sneezing",
+      "fatigue",
+      "headache",
+      "high fever",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "family history",
+      "fatigue",
+      "loss of appetite",
+      "nausea",
+      "yellowing of eyes"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "high fever",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "itching",
+      "vomiting",
+      "weight loss",
+      "yellowish skin"
+    ],
+    [
+      "chills",
+      "continuous sneezing",
+      "shivering",
+      "watering from eyes"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "hip joint pain",
+      "joint pain",
+      "knee pain",
+      "neck pain",
+      "painful walking"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fast heart rate",
+      "fatigue",
+      "high fever",
+      "malaise",
+      "phlegm",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "abdominal pain",
+      "indigestion",
+      "internal itching",
+      "loss of appetite",
+      "passage of gases"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "cold hands and feets",
+      "depression",
+      "dizziness",
+      "enlarged thyroid",
+      "fatigue",
+      "irritability",
+      "lethargy",
+      "mood swings",
+      "puffy face and eyes",
+      "swollen extremeties",
+      "weight gain"
+    ],
+    [
+      "anxiety",
+      "blurred and distorted vision",
+      "drying and tingling lips",
+      "excessive hunger",
+      "fatigue",
+      "headache",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "anxiety",
+      "blurred and distorted vision",
+      "drying and tingling lips",
+      "excessive hunger",
+      "fatigue",
+      "headache",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "belly pain",
+      "chills",
+      "constipation",
+      "diarrhoea",
+      "fatigue",
+      "headache",
+      "high fever",
+      "nausea",
+      "toxic look (typhos)",
+      "vomiting"
+    ],
+    [
+      "bruising",
+      "fatigue",
+      "obesity",
+      "prominent veins on calf",
+      "swollen blood vessels",
+      "swollen legs"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "diarrhoea",
+      "joint pain",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "continuous sneezing",
+      "shivering",
+      "watering from eyes"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "cold hands and feets",
+      "depression",
+      "dizziness",
+      "enlarged thyroid",
+      "fatigue",
+      "irritability",
+      "lethargy",
+      "puffy face and eyes",
+      "swollen extremeties",
+      "weight gain"
+    ],
+    [
+      "back pain",
+      "loss of balance",
+      "neck pain",
+      "weakness in limbs"
+    ],
+    [
+      "blurred and distorted vision",
+      "excessive hunger",
+      "fatigue",
+      "increased appetite",
+      "irregular sugar level",
+      "lethargy",
+      "obesity",
+      "polyuria",
+      "weight loss"
+    ],
+    [
+      "burning micturition",
+      "continuous feel of urine",
+      "foul smell of urine"
+    ],
+    [
+      "blurred and distorted vision",
+      "depression",
+      "excessive hunger",
+      "headache",
+      "indigestion",
+      "irritability",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "cough",
+      "fast heart rate",
+      "fatigue",
+      "high fever",
+      "malaise",
+      "phlegm",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "chills",
+      "diarrhoea",
+      "headache",
+      "high fever",
+      "muscle pain",
+      "nausea",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "bruising",
+      "cramps",
+      "fatigue",
+      "prominent veins on calf",
+      "swollen blood vessels",
+      "swollen legs"
+    ],
+    [
+      "inflammatory nails",
+      "joint pain",
+      "silver like dusting",
+      "skin peeling",
+      "small dents in nails"
+    ],
+    [
+      "dischromic patches",
+      "itching",
+      "skin rash"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "excessive hunger",
+      "fast heart rate",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "sweating",
+      "weight loss"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "cold hands and feets",
+      "depression",
+      "dizziness",
+      "enlarged thyroid",
+      "fatigue",
+      "irritability",
+      "lethargy",
+      "mood swings",
+      "swollen extremeties",
+      "weight gain"
+    ],
+    [
+      "dehydration",
+      "diarrhoea",
+      "vomiting"
+    ],
+    [
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "itching",
+      "vomiting",
+      "weight loss",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "diarrhoea",
+      "joint pain",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "dischromic patches",
+      "itching",
+      "nodal skin eruptions",
+      "skin rash"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "depression",
+      "headache",
+      "indigestion",
+      "irritability",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "chills",
+      "diarrhoea",
+      "headache",
+      "high fever",
+      "muscle pain",
+      "nausea",
+      "vomiting"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "cough",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "vomiting",
+      "weight loss",
+      "yellowing of eyes"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "bloody stool",
+      "constipation",
+      "irritation in anus",
+      "pain during bowel movements"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes"
+    ],
+    [
+      "cramps",
+      "fatigue",
+      "obesity",
+      "prominent veins on calf",
+      "swollen blood vessels",
+      "swollen legs"
+    ],
+    [
+      "chills",
+      "headache",
+      "high fever",
+      "muscle pain",
+      "nausea",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "continuous sneezing",
+      "cough",
+      "fatigue",
+      "headache",
+      "high fever",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "itching",
+      "weight loss",
+      "yellowish skin"
+    ],
+    [
+      "high fever",
+      "red sore around nose",
+      "skin rash",
+      "yellow crust ooze"
+    ],
+    [
+      "abnormal menstruation",
+      "excessive hunger",
+      "fast heart rate",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "restlessness",
+      "sweating",
+      "weight loss"
+    ],
+    [
+      "abdominal pain",
+      "belly pain",
+      "chills",
+      "constipation",
+      "fatigue",
+      "headache",
+      "high fever",
+      "nausea",
+      "toxic look (typhos)",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "itching",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "cold hands and feets",
+      "depression",
+      "dizziness",
+      "enlarged thyroid",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "puffy face and eyes",
+      "swollen extremeties",
+      "weight gain"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "itching",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "extra marital contacts",
+      "muscle wasting",
+      "patches in throat"
+    ],
+    [
+      "chills",
+      "diarrhoea",
+      "high fever",
+      "muscle pain",
+      "nausea",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "high fever",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "swelled lymph nodes"
+    ],
+    [
+      "inflammatory nails",
+      "joint pain",
+      "silver like dusting",
+      "skin peeling",
+      "skin rash"
+    ]
+  ],
+  "test": [
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "continuous sneezing",
+      "cough",
+      "headache",
+      "high fever",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "abdominal pain",
+      "belly pain",
+      "chills",
+      "diarrhoea",
+      "fatigue",
+      "headache",
+      "high fever",
+      "nausea",
+      "toxic look (typhos)",
+      "vomiting"
+    ],
+    [
+      "anxiety",
+      "blurred and distorted vision",
+      "excessive hunger",
+      "fatigue",
+      "headache",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "indigestion",
+      "loss of appetite",
+      "passage of gases",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "distention of abdomen",
+      "fluid overload",
+      "swelling of stomach",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "headache",
+      "high fever",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "excessive hunger",
+      "headache",
+      "indigestion",
+      "irritability",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fast heart rate",
+      "fatigue",
+      "high fever",
+      "malaise",
+      "phlegm",
+      "rusty sputum"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "fatigue",
+      "headache",
+      "high fever",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "red spots over body",
+      "skin rash",
+      "swelled lymph nodes"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "depression",
+      "excessive hunger",
+      "headache",
+      "indigestion",
+      "irritability",
+      "stiff neck",
+      "visual disturbances"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "vomiting",
+      "weight loss",
+      "yellowing of eyes"
+    ],
+    [
+      "dischromic patches",
+      "nodal skin eruptions",
+      "skin rash"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "chest pain",
+      "dizziness",
+      "headache",
+      "lack of concentration",
+      "loss of balance"
+    ],
+    [
+      "family history",
+      "fatigue",
+      "loss of appetite",
+      "nausea",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "muscle pain",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "vomiting"
+    ],
+    [
+      "chest pain",
+      "chills",
+      "congestion",
+      "continuous sneezing",
+      "cough",
+      "fatigue",
+      "headache",
+      "loss of smell",
+      "malaise",
+      "muscle pain",
+      "phlegm",
+      "redness of eyes",
+      "runny nose",
+      "sinus pressure",
+      "swelled lymph nodes",
+      "throat irritation"
+    ],
+    [
+      "burning micturition",
+      "itching",
+      "skin rash",
+      "spotting urination",
+      "stomach pain"
+    ],
+    [
+      "bruising",
+      "cramps",
+      "obesity",
+      "prominent veins on calf",
+      "swollen blood vessels",
+      "swollen legs"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "excessive hunger",
+      "fast heart rate",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "restlessness",
+      "sweating"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "itching",
+      "vomiting",
+      "weight loss",
+      "yellowish skin"
+    ],
+    [
+      "hip joint pain",
+      "joint pain",
+      "knee pain",
+      "neck pain",
+      "painful walking",
+      "swelling joints"
+    ],
+    [
+      "muscle weakness",
+      "painful walking",
+      "stiff neck",
+      "swelling joints"
+    ],
+    [
+      "abdominal pain",
+      "distention of abdomen",
+      "fluid overload",
+      "history of alcohol consumption",
+      "vomiting",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "joint pain",
+      "loss of appetite",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "cold hands and feets",
+      "depression",
+      "dizziness",
+      "enlarged thyroid",
+      "fatigue",
+      "irritability",
+      "lethargy",
+      "mood swings",
+      "puffy face and eyes",
+      "swollen extremeties"
+    ],
+    [
+      "acidity",
+      "chest pain",
+      "cough",
+      "stomach pain",
+      "ulcers on tongue"
+    ],
+    [
+      "back pain",
+      "chills",
+      "fatigue",
+      "headache",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "malaise",
+      "nausea",
+      "pain behind the eyes",
+      "red spots over body",
+      "skin rash",
+      "vomiting"
+    ],
+    [
+      "bloody stool",
+      "constipation",
+      "irritation in anus",
+      "pain during bowel movements",
+      "pain in anal region"
+    ],
+    [
+      "abnormal menstruation",
+      "brittle nails",
+      "cold hands and feets",
+      "depression",
+      "enlarged thyroid",
+      "fatigue",
+      "irritability",
+      "lethargy",
+      "mood swings",
+      "puffy face and eyes",
+      "swollen extremeties",
+      "weight gain"
+    ],
+    [
+      "belly pain",
+      "chills",
+      "constipation",
+      "diarrhoea",
+      "fatigue",
+      "headache",
+      "high fever",
+      "nausea",
+      "toxic look (typhos)",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "dark urine",
+      "fatigue",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "breathlessness",
+      "cough",
+      "family history",
+      "fatigue",
+      "high fever"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "diarrhoea",
+      "joint pain",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes"
+    ],
+    [
+      "chills",
+      "shivering",
+      "watering from eyes"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "acidity",
+      "blurred and distorted vision",
+      "depression",
+      "excessive hunger",
+      "headache",
+      "indigestion",
+      "irritability",
+      "stiff neck"
+    ],
+    [
+      "chills",
+      "diarrhoea",
+      "headache",
+      "high fever",
+      "muscle pain",
+      "nausea",
+      "sweating"
+    ],
+    [
+      "chills",
+      "diarrhoea",
+      "headache",
+      "high fever",
+      "muscle pain",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "abdominal pain",
+      "fatigue",
+      "high fever",
+      "itching",
+      "vomiting",
+      "weight loss",
+      "yellowish skin"
+    ],
+    [
+      "movement stiffness",
+      "painful walking",
+      "stiff neck",
+      "swelling joints"
+    ],
+    [
+      "bloody stool",
+      "constipation",
+      "irritation in anus",
+      "pain in anal region"
+    ],
+    [
+      "itching",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "blurred and distorted vision",
+      "fatigue",
+      "increased appetite",
+      "irregular sugar level",
+      "lethargy",
+      "obesity",
+      "polyuria",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "joint pain",
+      "silver like dusting",
+      "skin peeling",
+      "skin rash",
+      "small dents in nails"
+    ],
+    [
+      "bladder discomfort",
+      "burning micturition",
+      "continuous feel of urine",
+      "foul smell of urine"
+    ],
+    [
+      "anxiety",
+      "drying and tingling lips",
+      "excessive hunger",
+      "fatigue",
+      "headache",
+      "irritability",
+      "nausea",
+      "palpitations",
+      "slurred speech",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "dehydration",
+      "sunken eyes",
+      "vomiting"
+    ],
+    [
+      "joint pain",
+      "knee pain",
+      "neck pain",
+      "painful walking",
+      "swelling joints"
+    ],
+    [
+      "back pain",
+      "dizziness",
+      "neck pain",
+      "weakness in limbs"
+    ],
+    [
+      "chest pain",
+      "cough",
+      "stomach pain",
+      "ulcers on tongue",
+      "vomiting"
+    ],
+    [
+      "abnormal menstruation",
+      "diarrhoea",
+      "excessive hunger",
+      "fast heart rate",
+      "fatigue",
+      "irritability",
+      "mood swings",
+      "muscle weakness",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "indigestion",
+      "internal itching",
+      "loss of appetite",
+      "passage of gases",
+      "vomiting"
+    ],
+    [
+      "breathlessness",
+      "cough",
+      "family history",
+      "fatigue",
+      "mucoid sputum"
+    ],
+    [
+      "abdominal pain",
+      "acute liver failure",
+      "coma",
+      "dark urine",
+      "high fever",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "stomach bleeding",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fast heart rate",
+      "fatigue",
+      "malaise",
+      "phlegm",
+      "rusty sputum",
+      "sweating"
+    ],
+    [
+      "headache",
+      "loss of balance",
+      "nausea",
+      "spinning movements",
+      "vomiting"
+    ],
+    [
+      "extra marital contacts",
+      "high fever",
+      "muscle wasting"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "joint pain",
+      "loss of appetite",
+      "mild fever",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "joint pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "chest pain",
+      "dizziness",
+      "headache",
+      "lack of concentration"
+    ],
+    [
+      "blister",
+      "high fever",
+      "red sore around nose",
+      "skin rash",
+      "yellow crust ooze"
+    ],
+    [
+      "headache",
+      "vomiting",
+      "weakness of one body side"
+    ],
+    [
+      "inflammatory nails",
+      "joint pain",
+      "silver like dusting",
+      "skin peeling",
+      "skin rash",
+      "small dents in nails"
+    ],
+    [
+      "abdominal pain",
+      "dark urine",
+      "fatigue",
+      "itching",
+      "lethargy",
+      "loss of appetite",
+      "malaise",
+      "receiving blood transfusion",
+      "receiving unsterile injections",
+      "yellow urine",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "fatigue",
+      "loss of appetite",
+      "nausea",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "blister",
+      "red sore around nose",
+      "skin rash",
+      "yellow crust ooze"
+    ],
+    [
+      "back pain",
+      "dizziness",
+      "loss of balance",
+      "neck pain",
+      "weakness in limbs"
+    ],
+    [
+      "bruising",
+      "cramps",
+      "fatigue",
+      "obesity",
+      "prominent veins on calf",
+      "swollen legs"
+    ],
+    [
+      "chest pain",
+      "sweating",
+      "vomiting"
+    ],
+    [
+      "loss of balance",
+      "nausea",
+      "spinning movements",
+      "unsteadiness",
+      "vomiting"
+    ],
+    [
+      "blurred and distorted vision",
+      "excessive hunger",
+      "fatigue",
+      "increased appetite",
+      "irregular sugar level",
+      "lethargy",
+      "obesity",
+      "polyuria",
+      "restlessness",
+      "weight loss"
+    ],
+    [
+      "abdominal pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "yellowing of eyes",
+      "yellowish skin"
+    ],
+    [
+      "blackheads",
+      "pus filled pimples",
+      "scurring",
+      "skin rash"
+    ],
+    [
+      "blood in sputum",
+      "breathlessness",
+      "chest pain",
+      "chills",
+      "cough",
+      "fatigue",
+      "high fever",
+      "loss of appetite",
+      "malaise",
+      "mild fever",
+      "phlegm",
+      "sweating",
+      "swelled lymph nodes",
+      "weight loss",
+      "yellowing of eyes"
+    ]
+  ]
+}

@@ -1,101 +1,46 @@
-# Disease Prediction System
+# Symptom Classification Demo
 
-A machine learning-powered disease prediction system that takes user-reported symptoms and predicts the possible disease with a confidence score. The system leverages a pre-trained machine learning model to provide accurate predictions based on the provided symptoms.
+An educational Streamlit application for classifying symptom sets. **It is not a diagnostic tool.** The bundled data are small, repetitive and do not establish clinical validity.
 
-## Features
+## Run locally
 
-- **Symptom-based Disease Prediction**: Users can input their symptoms (comma-separated or via selection) to get a disease prediction
-- **Confidence Score**: The app provides a confidence score to indicate the likelihood of the predicted disease
-- **Easy-to-use Interface**: A simple and interactive interface built with Streamlit, allowing users to quickly enter symptoms and view results
-- **Symptom Mapping**: The system uses an encoded mapping for symptoms to predict the disease effectively
+Tested on Windows with Python 3.10. From the project directory:
 
-## Technologies Used
-
-- **Python**: The core language used for the development of the app
-- **Streamlit**: A framework used for building the web app interface
-- **scikit-learn**: A machine learning library for loading and using the pre-trained model
-- **NumPy**: A library for handling arrays and numerical operations
-
-## Requirements
-
-To run this app locally, ensure that you have the following installed:
-
-- Python 3.6 or higher
-- `streamlit`
-- `numpy`
-- `scikit-learn`
-- `pickle`
-
-To install the required dependencies, run:
-
-```bash
-pip install -r requirements.txt
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe train.py
+.\.venv\Scripts\python.exe -m unittest -v
+.\.venv\Scripts\python.exe -m streamlit run app.py --server.headless=true
 ```
 
-## How to Run the App Locally
+Open the local URL shown by Streamlit. Run training once before starting the app; it creates the model in artifacts/. Model and data paths are resolved relative to this project, so app startup does not depend on the terminal's current folder.
 
-Follow these steps to run the Disease Prediction System locally:
+## September 2026 repairs
 
-1. Clone this repository:
-   ```bash
-   (https://github.com/GubbalaSaiJithin/Disease-Prediction-App)
-   ```
+- Canonicalise each row as a set of symptoms. Selection order, case, underscores and duplicate selections no longer change the input.
+- Keep absent symptoms absent. Removed mode imputation, numeric symptom IDs treated as ordered features, hard-coded ten-feature padding and silent truncation.
+- Use binary symptom features fitted inside each cross-validation fold.
+- Remove exact duplicate symptom sets before the train/test split. The original 4,920 rows reduce to 304 distinct sets across 41 labels; 4,616 duplicates are excluded.
+- Compare logistic regression and random forest using training-only three-fold cross-validation. Evaluate the selected model on a separate stratified test split.
+- Replace hard-coded accuracy/precision/recall/F1 labels with results loaded from the actual training run.
+- Remove the runtime dependency on the old XGBoost pickle and pin the tested runtime dependencies.
 
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+The old Pickle files/ artifacts and final_dataset.csv remain only for historical reference. The repaired app never loads them. The notebooks now use the same corrected modules as the app.
 
-3. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
+## Evaluation
 
-4. Open your browser and visit `http://localhost:8501` to interact with the app.
+The fixed split contains 228 training and 76 test symptom sets, with zero exact-set overlap. Both candidate models achieved macro F1 1.0 in the three development folds; logistic regression was selected by the deterministic tie rule. Its test accuracy and macro F1 were also 1.0 on these 76 examples. The majority-class baseline accuracy was 0.0263.
 
-## App Usage
+These high values mainly demonstrate how separable this small template-like dataset is. Deduplication removes exact leakage but does not turn it into an independent patient cohort. Do not present these scores as diagnostic performance. Model scores shown in the UI are not calibrated probabilities of illness.
 
-1. **Input Symptoms**: You can either type your symptoms in the input text area (comma-separated) or select from the available symptoms in the dropdown list.
+Full metrics, source checksum and split manifest are in artifacts/. Four regression/interaction tests passed, including reordered input, invalid input and a real Streamlit button interaction. A separate live HTTP startup check also passed.
 
-2. **Click "Predict"**: After entering symptoms, click the **Predict** button to get the disease prediction along with the confidence score.
+## Files
 
-3. **Interpret Results**: The system will display the predicted disease and the confidence score, which indicates the probability of the diagnosis.
+- symptom_model.py: normalisation, binary features and inference.
+- train.py: deduplication, split, model comparison, training and evaluation.
+- app.py: Streamlit interface.
+- test_project.py: regression and app interaction checks.
 
-### Example:
-
-- **Symptoms Input**: "itching, skin rash, continuous sneezing"
-- **Prediction Output**: "The predicted disease is: **Skin Allergy**"
-- **Confidence Score**: "Confidence Score: **95.75%**"
-
-## Model Explanation
-
-The model used in this app is a machine learning classifier trained on a dataset of common diseases and their associated symptoms. The model is capable of predicting a disease based on the symptoms entered by the user.
-
-### Model Details:
-
-- **Algorithm Used**: [XGBoost Classifier]
-- **Accuracy**: The model has an accuracy of [100]% based on the evaluation on the test set
-- **Input Features**: Symptoms encoded into numerical values for model prediction
-- **Output**: A disease label predicted by the model, along with the confidence score
-
-## Screenshots
-
-![Screenshot 2025-01-07 121823](https://github.com/user-attachments/assets/cb740ce8-b00a-40d1-9494-704270f1cb01)
-![Screenshot 2025-01-07 121908](https://github.com/user-attachments/assets/9147fbfc-a031-4519-b641-bc29fc301441)
-
-
-## Deployment
-
-The app is also deployed on Streamlit Cloud. You can access the live app by clicking the link below:
-
-- [Live App Link](https://disease-prediction-app-nknheifaqume48onnplpjg.streamlit.app/)
-
-## Author
-
-This Disease Prediction App was developed by :
--	[@GubbalaSaiJithin](https://github.com/GubbalaSaiJithin)
--	Repository : https://github.com/GubbalaSaiJithin/Disease-Prediction-App.git
-
-## Feedback
-
-For any feedback or queries, please reach out to me at saijithin09@gmail.com.
+The repairs were made with AI assistance. Explain both the original design and the corrections when discussing this project. Original source data and assets were preserved from this repository; their provenance/license needs to be documented before reusing them in another public dataset release.
