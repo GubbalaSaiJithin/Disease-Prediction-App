@@ -43,4 +43,4 @@ Full metrics, source checksum and split manifest are in artifacts/. Four regress
 - app.py: Streamlit interface.
 - test_project.py: regression and app interaction checks.
 
-The repairs were made with AI assistance. Explain both the original design and the corrections when discussing this project. Original source data and assets were preserved from this repository; their provenance/license needs to be documented before reusing them in another public dataset release.
+Original source data and assets were preserved from this repository; their provenance and license need documenting before reuse in another public dataset release.
